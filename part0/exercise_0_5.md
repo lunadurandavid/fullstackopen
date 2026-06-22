@@ -27,4 +27,4 @@ sequenceDiagram
     server-->>browser: [{ "content":"aa","date":"2026-06-22T07:55:47.242Z" }, ... ]
     deactivate server
 
-    Note right of browser: The browser executes the callback function that renders the notes; the difference now it's that the browser already has the data and is updating the page itself.
+    Note right of browser: Now browser has the data and update the page itself.
