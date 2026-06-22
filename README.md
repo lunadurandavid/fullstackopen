@@ -1,6 +1,7 @@
 ![Full Stack Open](https://img.shields.io/badge/Full_Stack_Open-Portfolio-blue)
 
-# Full Stack Open – Web Development Portfolio (JavaScript | React | Node.js)
+# Full Stack Open – Web Development Portfolio 
+# (JavaScript | React | Node.js)
 
 This repository contains my Full Stack Open coursework, covering modern web development with JavaScript, React, Node.js, Express, and REST APIs.
 
@@ -32,12 +33,9 @@ It showcases my progression in full stack development, from foundational concept
 
 ## Repository Structure
 
-fullstackopen/
-│
-├── part0/ # Fundamentals of Web Applications (UML diagrams)
-├── part1/ # React basics
-├── part2/ # Communication with server
-├── part3/ # Backend development
-
+- **part0** – Web Fundamentals (UML diagrams)
+- **part1** – React basics
+- **part2** – Client-server communication
+- **part3** – Backend development
 
 ## Projects / Highlights
